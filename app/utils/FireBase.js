@@ -7,7 +7,7 @@ const firebaseConfig = {
   projectId: "tenedores-8c5fa",
   storageBucket: "tenedores-8c5fa.appspot.com",
   messagingSenderId: "403590733912",
-  appId: "1:403590733912:web:67bf58d326c4975eef6a2d"
+  appId: "$$$$$$"
 
 };
 
