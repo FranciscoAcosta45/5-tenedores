@@ -1,9 +1,9 @@
 import firebase from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA8gUvglKSUg-XAGg6utg5hR1RTLfBZy-A",
+  apiKey: "$$$$$$$$$$$$$",
   authDomain: "tenedores-8c5fa.firebaseapp.com",
-  databaseURL: "https://tenedores-8c5fa.firebaseio.com",
+  databaseURL: "$$$$$$$$",
   projectId: "tenedores-8c5fa",
   storageBucket: "tenedores-8c5fa.appspot.com",
   messagingSenderId: "403590733912",
